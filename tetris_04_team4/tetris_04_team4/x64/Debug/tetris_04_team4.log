@@ -1,0 +1,5 @@
+﻿  tetris.c
+C:\Users\CAU\Desktop\기컴프 04분반 team4\tetris_04_team4\tetris_04_team4\tetris.c(534,25): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+C:\Users\CAU\Desktop\기컴프 04분반 team4\tetris_04_team4\tetris_04_team4\tetris.c(547,25): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+C:\Users\CAU\Desktop\기컴프 04분반 team4\tetris_04_team4\tetris_04_team4\tetris.c(1806,11): warning C4101: 'coord' :참조되지 않은 지역 변수입니다.
+  tetris_04_team4.vcxproj -> C:\Users\CAU\Desktop\기컴프 04분반 team4\tetris_04_team4\x64\Debug\tetris_04_team4.exe
